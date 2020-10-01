@@ -37,7 +37,7 @@ The course is organized into 5 broad steps as follows:
 
 4-  Install sublimetext in your computer (It is the free software, just search the name and install it)
 
-5-  6-	Write your README markdown on sublime and save it on the repo address in your local computer as README.md (all caps lock) [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Cloning/img2.png)
+5-  6-	Write your README markdown on sublime and save it on the repo address in your local computer as README.md (All Uppercase) [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Cloning/img2.png)
 
 ### Staging: Wrap your file and prepare it for committing
 
