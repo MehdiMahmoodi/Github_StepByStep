@@ -33,7 +33,7 @@ The course is organized into 5 broad steps as follows:
 
 2-	Go to the created folder through the comand prompt(i.	Cmd --> cd + address of the folder)
 
-3-	Clone the folder by typing the command: git clone paste the URL in previouse step+ Choose the name
+3-	Clone the folder by typing the command: git clone paste the URL in previouse step+ Choose the name[Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Cloning/img1.png)
 
 4-	
 
