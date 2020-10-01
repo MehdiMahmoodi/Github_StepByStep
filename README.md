@@ -31,9 +31,9 @@ The course is organized into 5 broad steps as follows:
 
 1-	Create new folder for saving the contents in your local computer 
 
-2-	Sign into your git and click on repositories, then click on NEW icon (the position of this icon may change based on Git version) [click here]()
+2-	Go to the created folder through the comand prompt(i.	Cmd --> cd + address of the folder)
 
-3-	 
+3-	Clone the folder by typing the command: git clone paste the URL in previouse step+ Choose the name
 
 4-	
 
