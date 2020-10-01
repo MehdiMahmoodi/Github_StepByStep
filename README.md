@@ -13,7 +13,7 @@ In this course you will find the fast way for creating a new repository. For hav
 
 The course is organized into 5 broad steps as follows:
 
-1)	[Create a repository: Create a new online folder for storing your data, code, information, …]{https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Create%20a%20New%20Repository_1.pdf}
+1)	[Create a repository: Create a new online folder for storing your data, code, information, …](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Create%20a%20New%20Repository_1.pdf)
 
 2)	[Cloning the repository: Copy the repository in our local computer]
 
