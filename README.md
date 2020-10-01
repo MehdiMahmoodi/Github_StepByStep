@@ -23,7 +23,7 @@ The course is organized into 5 broad steps as follows:
 
 3-	A new window will be popping up. In this window you need to provide with the repository name and description. Keep other parts as is. Keep in mind to select the public, otherwise you need to pay for private one. After naming and description, just push the Create repository icon.[Click here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Creat%20New%20Repo/Step-3.pdf). 
 
-5-	Again, a new window will be popping up which is look so weird. Do not panic, just get a copy of the link [Click Here] (Step-4)
+5-	Again, a new window will be popping up which is look so weird. Do not panic, just get a copy of the link [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Creat%20New%20Repo/Step-4.pdf)
 
 2)	[Cloning the repository: Copy the repository in our local computer]
 
