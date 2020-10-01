@@ -33,9 +33,11 @@ The course is organized into 5 broad steps as follows:
 
 2-	Go to the created folder through the comand prompt(i.	Cmd --> cd + address of the folder)
 
-3-	Clone the folder by typing the command: git clone paste the URL in previouse step+ Choose the name[Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Cloning/img1.png)
+3-	Clone the folder by typing the command: git clone paste the URL in previouse step+ Choose the name [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Cloning/img1.png)
 
-4-	
+4-  Install sublimetext in your computer (It is the free software, just search the name and install it)
+
+5-  6-	Write your README markdown on sublime and save it on the repo address in your local computer as README.md (all caps lock) [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Cloning/img2.png)
 
 ### Staging: Wrap your file and prepare it for committing
 
