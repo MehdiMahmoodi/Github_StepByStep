@@ -13,7 +13,16 @@ In this course you will find the fast way for creating a new repository. For hav
 
 The course is organized into 5 broad steps as follows:
 
-###	[Create a repository: Create a new online folder for storing your data, code, information, …](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Create%20a%20New%20Repository_1.pdf)
+###	Create a repository: Create a new online folder for storing your data, code, information, …
+
+**Do not Forget to check for Git availability on your local computer**
+
+1-	 Create an account on git. It is free and straight forward process 
+
+2-	 Sign into your git and click on repositories [click here] (Step-1)
+3-	Click on NEW icon (the position of this icon may change based on Git version) {Click Here] (Step-2)
+4-	A new window will be popping up. In this window you need to provide with the repository name and description. Keep other parts as is. Keep in mind to select the public, otherwise you need to pay for private one. After naming and description, just push the Create repository icon.[Click here] (Step-3). 
+5-	Again, a new window will be popping up which is look so weird. Do not panic, just get a copy of the link [Click Here] (Step-4)
 
 2)	[Cloning the repository: Copy the repository in our local computer]
 
