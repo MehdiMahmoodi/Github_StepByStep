@@ -19,7 +19,7 @@ The course is organized into 5 broad steps as follows:
 
 1-	 Create an account on git. It is free and straight forward process 
 
-2-	 Sign into your git and click on repositories [click here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Creat%20New%20Repo/Step-1%262.pdf)
+2-	 Sign into your git and click on repositories, then click on NEW icon (the position of this icon may change based on Git version) [click here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Creat%20New%20Repo/Step-1%262.pdf)
 
 3-	Click on NEW icon (the position of this icon may change based on Git version) {Click Here] (Step-2)
 
