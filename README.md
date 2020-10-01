@@ -21,9 +21,7 @@ The course is organized into 5 broad steps as follows:
 
 2-	 Sign into your git and click on repositories, then click on NEW icon (the position of this icon may change based on Git version) [click here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Creat%20New%20Repo/Step-1%262.pdf)
 
-3-	Click on NEW icon (the position of this icon may change based on Git version) {Click Here] (Step-2)
-
-4-	A new window will be popping up. In this window you need to provide with the repository name and description. Keep other parts as is. Keep in mind to select the public, otherwise you need to pay for private one. After naming and description, just push the Create repository icon.[Click here] (Step-3). 
+3-	A new window will be popping up. In this window you need to provide with the repository name and description. Keep other parts as is. Keep in mind to select the public, otherwise you need to pay for private one. After naming and description, just push the Create repository icon.[Click here](Step-3). 
 
 5-	Again, a new window will be popping up which is look so weird. Do not panic, just get a copy of the link [Click Here] (Step-4)
 
