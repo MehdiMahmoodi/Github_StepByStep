@@ -25,7 +25,17 @@ The course is organized into 5 broad steps as follows:
 
 4-	Again, a new window will be popping up which is look so weird. Do not panic, just get a copy of the link [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Creat%20New%20Repo/Step-4.pdf)
 
+
 ### Cloning the repository: Copy the repository in our local computer
+
+
+1-	Create new folder for saving the contents in your local computer 
+
+2-	Sign into your git and click on repositories, then click on NEW icon (the position of this icon may change based on Git version) [click here]()
+
+3-	 
+
+4-	
 
 ### Staging: Wrap your file and prepare it for committing
 
