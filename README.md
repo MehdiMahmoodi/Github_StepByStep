@@ -59,4 +59,9 @@ The course is organized into 5 broad steps as follows:
 
 1-  For any modification, files need to be added, committed, and pushed again. It means you need to do **git add README.md** and **git commit -m “second commit”** again.
 
+2-  For undo changes you can use **git checkout master**
+
+## Good Luck
+
+
 
