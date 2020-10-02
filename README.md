@@ -47,4 +47,16 @@ The course is organized into 5 broad steps as follows:
 
 ### Committing: Pack and label your files and make it ready for shipping to GitHub
 
+1-  It is the time to pack and label it to make it ready for git. lets do it: just type **git commit -m “Initial commit”** in your CMD [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Committing/Picture1.png)
+
 ### Pushing: Ship files to GitHub
+
+1-  It is finall step. In this step, you will ship your data pack to youre git by typing **git push origin master** on your CMD [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Pushing/Picture1.png)
+
+2-  Now you can check your GitHub repository, you should be able to see the updates 
+
+### Change or Update README file
+
+1-  For any modification, files need to be added, committed, and pushed again. It means you need to do **git add README.md** and **git commit -m “second commit”** again.
+
+
