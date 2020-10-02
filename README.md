@@ -41,6 +41,8 @@ The course is organized into 5 broad steps as follows:
 
 ### Staging: Wrap your file and prepare it for committing
 
+1-  Add the README.md file to your git by typing **git add README.md** on your CMD
+
 ### Committing: Pack and label your files and make it ready for shipping to GitHub
 
 ### Pushing: Ship files to GitHub
