@@ -43,7 +43,7 @@ The course is organized into 5 broad steps as follows:
 
 1-  Add the README.md file to your git by typing **git add README.md** on your CMD [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Staging/Picture1.png)
 
-2-  It is time to check the status. By typing the **git status** you need to see the **new file:P README.md** in green color [Click Here] (https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Staging/Picture2.png)
+2-  It is time to check the status. By typing the **git status** you need to see the **new file:P README.md** in green color [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Staging/Picture2.png)
 
 ### Committing: Pack and label your files and make it ready for shipping to GitHub
 
