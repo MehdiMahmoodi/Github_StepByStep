@@ -52,6 +52,7 @@ The course is organized into 5 broad steps as follows:
 ### Pushing: Ship files to GitHub
 
 1-  It is finall step. In this step, you will ship your data pack to youre git by typing **git push origin master** on your CMD [Click Here](https://github.com/MehdiMahmoodi/Github_StepByStep/blob/master/Pushing/Picture1.png)
+**In Bitbucket: git push -u origin or (git push -u origin --all)**
 
 2-  Now you can check your GitHub repository, you should be able to see the updates 
 
